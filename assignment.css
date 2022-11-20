@@ -1,0 +1,211 @@
+.header {
+    background-color: blue;
+    height: 70px;
+    width: 100%;
+}
+
+#img {
+    position: relative;
+    height: 74px;
+    width: 74px;
+    bottom: 5px;
+}
+
+.first {
+    padding-top: 3px;
+    color: white;
+    position: absolute;
+    padding-left: 119px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.second {
+    position: absolute;
+    display: inline-block;
+    right: 281px;
+    top: 30px;
+}
+
+.second a {
+    color: white;
+    font-size: 23px;
+    text-decoration: none;
+    margin: 8px;
+}
+
+#account {
+    border: 2px solid white;
+    padding: 2 9px;
+}
+
+.break {
+    position: relative;
+    color: blue;
+    left: 122px;
+    font-size: 24px;
+    display: inline-block;
+}
+
+.filter {
+    font-size: 19px;
+    left: 140px;
+    position: absolute;
+    height: 606px;
+    width: 210px;
+    padding: 18px 18px 18px 59px;
+    box-shadow: 0 3px 6px 0 black;
+}
+
+.arsec {
+    left: 493px;
+    position: relative;
+    height: 265px;
+    width: 1006px;
+    box-shadow: 0 3px 6px 0 black;
+
+}
+
+.third {
+    position: relative;
+    height: 265px;
+    width: 1006px;
+    box-shadow: 0 3px 6px 0 black;
+    left: 493px;
+    top: 31px;
+}
+
+.top h4 {
+    margin: 7px 0px 38px 0px;
+    color: blue;
+}
+
+.select h4 {
+    margin: 2px;
+
+}
+
+.select select {
+    padding: 5px;
+}
+.varities{
+    margin: 37px 0px;
+}
+.cost{
+    margin: 20px 0px;
+}
+.sort{
+    margin: 36px 0px;
+}
+footer{
+    background-color: blue;
+    width: 1892px;
+    height: 45px;
+    bottom: 0%;
+    position: fixed;
+    text-align: center;
+    color: white;
+    font-size: 23px;
+    padding-top: 10px;
+}
+.middle{
+    display: inline-block;
+    position: relative;
+    left: 193px;
+    top: 24px;
+    color: white;
+    font-size: 22px;
+}
+.arsec img{
+    height: 228px;
+    position: absolute;
+    top: 18px;
+    left: 19px;
+    border-radius: 6px;
+}
+.cafe h1{
+    display: inline-block;
+    left: 39%;
+    position: absolute;
+    font-size: 45px;
+    margin-top: 13px;
+    text-decoration: underline;
+}
+.cafe h4{
+    position: absolute;
+    display: inline-block;
+    left: 39%;
+    top: 80px;
+    font-size: 22px;
+    font-weight: normal;
+}
+.cafe h2{
+    position: absolute;
+    display: inline-block;
+    left: 39%;
+    top: 154px;
+    font-weight: normal;
+    font-size: 22px;
+}
+.cafe h3{
+    position: absolute;
+    display: inline-block;
+    left: 80%;
+    bottom: 48px;
+    font-weight: normal;
+    font-size: 16px;
+}
+.third img{
+    height: 228px;
+    position: absolute;
+    top: 18px;
+    left: 19px;
+    border-radius: 6px;
+    width: 305px;
+}
+.cafe2 h1{
+    display: inline-block;
+    left: 39%;
+    position: absolute;
+    font-size: 45px;
+    margin-top: 13px;
+    text-decoration: underline;
+}
+.cafe2 h4{
+    position: absolute;
+    display: inline-block;
+    left: 39%;
+    top: 80px;
+    font-size: 22px;
+    font-weight: normal;
+}
+.cafe2 h2{
+    position: absolute;
+    display: inline-block;
+    left: 39%;
+    top: 154px;
+    font-weight: normal;
+    font-size: 22px;
+}
+.cafe2 h3{
+    position: absolute;
+    display: inline-block;
+    left: 80%;
+    bottom: 48px;
+    font-weight: normal;
+    font-size: 16px;
+}
+.next{
+    display: inline-block;
+    left: 45%;
+    position: relative;
+    top: 62px;
+}
+.next a{
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    box-shadow: 1px 0px 1px 1px grey;
+    margin-right: 8px;
+}
+
